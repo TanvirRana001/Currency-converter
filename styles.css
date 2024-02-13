@@ -1,0 +1,40 @@
+.bg_img {
+    background-image: url(https://png.pngtree.com/background/20231030/original/pngtree-3d-illustration-of-currency-converter-against-a-white-background-picture-image_5784942.jpg);
+    background-repeat: no-repeat;
+    height: 550px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#convert {
+    display: inline;
+}
+
+.from {
+    text-align: center;
+}
+
+.input-group-prepend {
+    margin-left: 40%;
+    margin-right: auto;
+    width: 100px;
+}
+
+#money {
+    width: 150px;
+    text-decoration: none;
+}
+
+#result {
+    color: white;
+    background-color: black;
+    opacity: 0.5;
+    text-align: center;
+    cursor: initial;
+}
